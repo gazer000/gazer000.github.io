@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2157ef5f.css",
+    "main.js": "/static/js/main.bfce003c.js",
+    "static/js/787.fe28ea42.chunk.js": "/static/js/787.fe28ea42.chunk.js",
+    "static/media/LogoUTC.png": "/static/media/LogoUTC.b285d0701bb9f727adbf.png",
+    "static/media/Hexacopter.gif": "/static/media/Hexacopter.bd4d26476e147f256679.gif",
+    "static/media/XBee.png": "/static/media/XBee.570394dbe310604aee3d.png",
+    "static/media/Car.png": "/static/media/Car.d1251b79a70e3da09316.png",
+    "static/media/Vinhomes.png": "/static/media/Vinhomes.bc621685e440e9038837.png",
+    "static/media/SiliconLabs.png": "/static/media/SiliconLabs.66ee98aca2b8dcd32a74.png",
+    "static/media/FPTSoftware.webp": "/static/media/FPTSoftware.5341de3c9308c9c2fb44.webp",
+    "static/media/UndrawSuccess.svg": "/static/media/UndrawSuccess.7a1c0807b8674a54fc25ec4b2007d18d.svg",
+    "index.html": "/index.html",
+    "main.2157ef5f.css.map": "/static/css/main.2157ef5f.css.map",
+    "main.bfce003c.js.map": "/static/js/main.bfce003c.js.map",
+    "787.fe28ea42.chunk.js.map": "/static/js/787.fe28ea42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2157ef5f.css",
+    "static/js/main.bfce003c.js"
+  ]
+}
