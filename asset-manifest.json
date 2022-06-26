@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b7147b90.css",
-    "main.js": "/static/js/main.46e09fdc.js",
+    "main.js": "/static/js/main.1aeabbd2.js",
     "static/js/787.fe28ea42.chunk.js": "/static/js/787.fe28ea42.chunk.js",
     "static/media/Project3_1.gif": "/static/media/Project3_1.0cd75dd65f846bdf8b15.gif",
     "static/media/LogoUTC.png": "/static/media/LogoUTC.b285d0701bb9f727adbf.png",
     "static/media/Project2_5.jpg": "/static/media/Project2_5.d4648c7a6517dbb2525f.jpg",
+    "static/media/Prize.jpg": "/static/media/Prize.7f1dc1bd2d3c01d158c2.jpg",
     "static/media/Project2_2.jpg": "/static/media/Project2_2.2f932f27a306b4729c54.jpg",
     "static/media/Project5_2.jpg": "/static/media/Project5_2.486a3b5c73cd9f3ec618.jpg",
     "static/media/XBee.png": "/static/media/XBee.570394dbe310604aee3d.png",
@@ -14,7 +15,6 @@
     "static/media/Project4_1.jpg": "/static/media/Project4_1.2028bda9423012c0ca51.jpg",
     "static/media/Project1_2.jpg": "/static/media/Project1_2.eab21e6d6b34b1a3f026.jpg",
     "static/media/Project3_2.jpg": "/static/media/Project3_2.faeff2b125c95448d157.jpg",
-    "static/media/Project4_2.jpg": "/static/media/Project4_2.8acc2ebf8ae929b4218a.jpg",
     "static/media/Project5_1.jpg": "/static/media/Project5_1.8df10a14b44169e01c5e.jpg",
     "static/media/Project1_1.jpg": "/static/media/Project1_1.d3b6462499f29d48bba2.jpg",
     "static/media/Project1_3.jpg": "/static/media/Project1_3.bd3874b900abb56aac95.jpg",
@@ -30,11 +30,11 @@
     "static/media/Building.svg": "/static/media/Building.104cc7e94458bc4c14ce737ceffaa2c7.svg",
     "static/media/Signal.svg": "/static/media/Signal.dcf7516fb55c36ec08bb5d674c0f4835.svg",
     "main.b7147b90.css.map": "/static/css/main.b7147b90.css.map",
-    "main.46e09fdc.js.map": "/static/js/main.46e09fdc.js.map",
+    "main.1aeabbd2.js.map": "/static/js/main.1aeabbd2.js.map",
     "787.fe28ea42.chunk.js.map": "/static/js/787.fe28ea42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7147b90.css",
-    "static/js/main.46e09fdc.js"
+    "static/js/main.1aeabbd2.js"
   ]
 }
